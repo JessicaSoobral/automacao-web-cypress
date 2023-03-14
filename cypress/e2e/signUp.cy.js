@@ -71,7 +71,7 @@ describe(' Sign Up / Cadastro', () => {
         cy.get('button[type="submit"]').click()
     })
 
-    /*
+    
     
      it('Usuário não pode ser em branco', () => {
             
@@ -107,7 +107,7 @@ describe(' Sign Up / Cadastro', () => {
             
     });
 
-    */
+    
 
 });
 
